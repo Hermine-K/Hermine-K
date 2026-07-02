@@ -16,6 +16,7 @@ From a clinical laboratory in Benin to large-scale data science in France, my wo
 | Project | Description | Tech |
 |---------|-------------|------|
 | [amira-sbfsem-cell-mask](https://github.com/Hermine-K/amira-sbfsem-cell-mask) | Preprocessing pipeline for SBF-SEM organelle segmentation in Amira-Avizo 3D: automatic cell masking, per-slice registration and lossless data reduction. | Python |
+| [SeqForge](https://github.com/Hermine-K/SeqForge) | C++ toolkit for FASTA/FASTQ: validation, analysis, two-bit encoding, k-mer indexing and read mapping (seed-and-extend). | C++ |
 | [clip_project](https://github.com/Hermine-K/clip_project) | CLIP implemented from scratch (CNN + SmallBERT, contrastive loss) to learn a shared image-text latent space. | Python |
 | [tweet_classification](https://github.com/Hermine-K/tweet_classification) | Scientific tweet classification (SciTweets) using classical machine learning and TF-IDF representations. | Python |
 | [Algorithme-de-Reconciliation](https://github.com/Hermine-K/Algorithme-de-Reconciliation) | Phylogenetic reconciliation algorithm. | Python |
