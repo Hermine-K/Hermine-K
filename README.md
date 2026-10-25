@@ -15,6 +15,7 @@ From a clinical laboratory in Benin to large-scale data science in France, my wo
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [kneemil](https://github.com/Hermine-K/kneemil) | Knee MRI abnormality detection (RSNA 2026 Kaggle challenge): LLM labels from multilingual radiology reports, multiple instance learning with per-finding attention. Public AUC 0.906. | Python |
 | [amira-sbfsem-cell-mask](https://github.com/Hermine-K/amira-sbfsem-cell-mask) | Preprocessing pipeline for SBF-SEM organelle segmentation in Amira-Avizo 3D: automatic cell masking, per-slice registration and lossless data reduction. | Python |
 | [SeqForge](https://github.com/Hermine-K/SeqForge) | C++ toolkit for FASTA/FASTQ: validation, analysis, two-bit encoding, k-mer indexing and read mapping (seed-and-extend). | C++ |
 | [clip_project](https://github.com/Hermine-K/clip_project) | CLIP implemented from scratch (CNN + SmallBERT, contrastive loss) to learn a shared image-text latent space. | Python |
